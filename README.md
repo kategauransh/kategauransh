@@ -46,7 +46,7 @@
 
 ## 📫 Let's Connect
 
-📧 **Email:** kategauransh7@gmail.com  
+📧 **Email:** gauranshkate.it@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/gauransh-kate-689690398  
 🧑‍💻 **GitHub:** https://github.com/kategauransh  
 
