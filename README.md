@@ -77,26 +77,48 @@
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kategauransh&theme=darkhub&no-frame=true&margin-w=12"/>
+## 🧠 Proof of Work
 
-</div>
+> Not claims. Not hype. Just real engineering work.
+
+### ⚙️ Systems Built
+- Designed **end-to-end Spring Boot backends** from request → processing → response
+- Implemented **secure authentication & authorization** using Spring Security
+- Built **file upload pipelines** with AWS S3 (validation, storage, access control)
+- Created **dynamic business logic** (pricing rules, conditions, workflows)
+
+---
+
+### 🧩 Engineering Approach
+- Break complex problems into **clean service boundaries**
+- Follow **controller → service → repository** architecture
+- Handle **validation, edge cases, and error states** deliberately
+- Write code optimized for **maintainability**, not shortcuts
 
 ---
 
-## 📊 Proof of Work
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kategauransh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kategauransh&theme=transparent&hide_border=true" height="170"/>
-
-</div>
+### 🔍 Engineering Habits
+- Debug by tracing **data flow**, not guessing
+- Refactor working code to improve **clarity and structure**
+- Optimize **only after correctness** is achieved
+- Prefer **readable code over clever code**
 
 ---
+
+### 📈 Discipline & Growth
+- Practice **DSA & problem-solving** consistently
+- Study **backend architecture, security, and system design**
+- Improve older codebases through **continuous refactoring**
+- Build projects to **learn deeply**, not just to showcase
+
+---
+
+`Built complete backend flows — not isolated features`  
+`Production mindset over tutorial mindset`  
+`Systems before syntax`
+
 
 ## 📈 Contribution Activity
 
@@ -108,41 +130,24 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Snapshot (Visual Demo)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kategauransh/kategauransh/output/github-contribution-grid-snake.svg"/>
+<img src="https://dummyimage.com/900x220/0f172a/38bdf8&text=Consistent+Daily+Contributions+Visualization" />
 
 </div>
-
----
-
-## 🎧 Coding Vibes (Live)
 
 <div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem"/>
-
+<sub>Visual representation for profile aesthetics</sub>
 </div>
 
 ---
-
 ## 💬 Random Dev Wisdom
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
----
-
-## 🌍 Visitors Around the World
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/map.png"/>
 
 </div>
 
@@ -157,27 +162,46 @@
 
 ---
 
-## 🌐 Let’s Connect
+<!-- =============================== -->
+<!-- 🌐 CONNECT (MODERN & PREMIUM) -->
+<!-- =============================== -->
 
 <div align="center">
 
+<br/>
+
+### ✨ Let’s Connect
+
+<p style="max-width: 600px;">
+I’m interested in conversations around <strong>backend engineering</strong>,  
+<strong>system design</strong>, and building <strong>real-world products</strong>.
+</p>
+
+<br/>
+
 <a href="mailto:gauranshkate.it@gmail.com">
-<img src="https://img.shields.io/badge/Email-020024?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-→-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/gauransh-kate-689690398">
-<img src="https://img.shields.io/badge/LinkedIn-020024?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-→-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/kategauransh">
+  <img src="https://img.shields.io/badge/GitHub-→-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kategauransh">
-<img src="https://img.shields.io/badge/GitHub-020024?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
+
+<sub>
+Open to opportunities • collaborations • thoughtful discussions
+</sub>
+
+<br/>
 
 </div>
 
----
 
-<div align="center">
 
 ### 🚀 Open to **Backend Developer / Software Engineer (Fresher)** roles  
 ⭐ *Built for the long game.*
