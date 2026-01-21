@@ -60,7 +60,7 @@
 ---
 
 ### ☕ **Bean Brew** — Coffee Shop Website  
-🔗 https://kategauransh.github.io/Bean-Brew.github.io/
+🔗 [https://kategauransh.github.io/Bean-Brew.github.io/](https://brew-beans-hazel.vercel.app/)
 
 - 🎨 Modern, responsive UI
 - 🧭 Clean navigation & UX consistency
