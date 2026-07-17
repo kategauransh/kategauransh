@@ -143,28 +143,7 @@ Distributed Systems
 
 ---
 
-## 📊 Live System Metrics
 
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kategauransh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kategauransh&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kategauransh&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
