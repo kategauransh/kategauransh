@@ -2,7 +2,7 @@
 
 # GAURANSH KATE
 
-### Building Reliable Backend Systems
+### Building Reliable Systems
 
 **Java • Spring Boot • Distributed Systems • AI Applications**
 
